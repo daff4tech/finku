@@ -1,0 +1,19 @@
+{
+  "name": "finku",
+  "version": "1.0.0",
+  "description": "FinKu — Dashboard Keuangan Pribadi Modern (catat transaksi, budget, target tabungan, grafik interaktif)",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "finance",
+    "budget",
+    "dashboard",
+    "pwa",
+    "indonesia"
+  ],
+  "author": "daff4tech",
+  "license": "MIT"
+}
